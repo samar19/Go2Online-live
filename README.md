@@ -1,3 +1,20 @@
+## Before we start, if you are the judge/panelist for , here are important quick links:
+
+1. Live Project: 
+2. Demo: 
+3. How to interact with the live project: 
+
+## Livepeer: Best Design
+4. Figma : 
+
+##  presentation 
+5. presentation : https://www.canva.com/design/DAFXHUjcqJ8/XqdFSkj5rb5Ag11VIq7mMw/watch?utm_content=DAFXHUjcqJ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+## github Repo
+6. github repo : https://github.com/samar19/Go2Online-live
+
+
 ## Project Description 
 Go2Online is a video conferencing platform built on top of web3 technologies such as IPFS and Filecoin, as well as protocols like HyperDapp, Lit Protocol, Tableland, XMTP, and Livepeer. Our platform allows DAO contributors and teams to host meetings and online events, with the option to make them public or invite-only. We also provide features such as the ability to store recordings of meetings on IPFS, mint POAPs within the conference, and send real-time notifications to team members via XMTP.
 
